@@ -1,0 +1,12 @@
+{
+  "name": "companyList",
+  "displayName": "companyList",
+  "expo": {
+    "name": "companyList",
+    "slug": "companyList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
